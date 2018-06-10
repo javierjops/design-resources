@@ -10,3 +10,5 @@ layout: post
 - [Stocksy](http://stocksy.com) — [paid] — high quality, stylish lifestyle paid stock photos (watermarked comps)
 - [Unsplash](https://unsplash.com/) — [free] — the first of the hip and gorgeous free with no strings attached stock photo sites
 - [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/albums) — [free] — photos of women in color in tech settings since every other stock photo site fails at this hardcore
+- [Photostockeditor](https://photostockeditor.com) — [free] — Beauty Exclusive Free Photos public domain
+- [FreeJPG](http://en.freejpg.com.ar) — [free] — Free Stock Photo, all licensed in public domain
